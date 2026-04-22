@@ -3,4 +3,4 @@
 ETSINF UPV, IPC Segundo Año
 
 Integrantes del grupo:
-Jose Lacroix
+Jose Lacroix, Lucía Gabaldoni
