@@ -1,2 +1,6 @@
 # IPC_Proyecto_Practicas
-la cosa del coso
+
+ETSINF UPV, IPC Segundo Año
+
+Integrantes del grupo:
+Jose Lacroix
